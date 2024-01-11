@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>8147310e-49ca-4307-a1e8-0d01c7541ed4</ProjectGuid>
+    <ProjectGuid>205e84d1-dc90-430f-9c55-59f9320ece7d</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>TARpv23_Gleb_Sotsjov.py</StartupFile>
+    <StartupFile>glebsotsjovTarpv23.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>TARpv23 Gleb Sotsjov</Name>
-    <RootNamespace>TARpv23 Gleb Sotsjov</RootNamespace>
+    <Name>glebsotsjovTarpv23</Name>
+    <RootNamespace>glebsotsjovTarpv23</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="TARpv23_Gleb_Sotsjov.py" />
+    <Compile Include="glebsotsjovTarpv23.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
