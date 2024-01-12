@@ -1,4 +1,42 @@
 ﻿from random import *
+#1 Juku läheb kinno
+nimi=input("Mis on sinu nimi?").capitalize() #"anna" -> "Anna"
+print("Tere",nimi) #"Tere, Anna
+if nimi=="Juku":
+    print("Lahme kinno")
+    vanus=int(input("Kui vana sa oled?"))
+    if vanus<0 or vanus>100:
+        pilet="vale vanus"
+    elif vanus<6:
+        pilet"tasuta pilet"
+    elif vanus<=14:
+        pilet="lastepilet"
+    elif vanus<=65:
+        pilet="täispilet"
+    elif vanus<=100:
+        pilet="sooduspilet"
+    print(pilet) #Ilus ja õige vastus!"Vale vanus" "On vaja osta....."
+else:
+    print("Ma ootan Jukut")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 protsent=randint(-100,500) #0*100 0-60 "2", 61-75-"3", 76-89-"4" 90-100-"5"
 print(protsent, "% on teisti tulemus")
