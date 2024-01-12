@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "gleb if", "gleb if.pyproj", "{08014E5F-8D2E-43AF-B8EA-FF5CE9003687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08014E5F-8D2E-43AF-B8EA-FF5CE9003687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08014E5F-8D2E-43AF-B8EA-FF5CE9003687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {680C59D3-6931-4AB8-B9B6-CD71DE50AF2A}
+	EndGlobalSection
+EndGlobal
