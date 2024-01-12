@@ -1,4 +1,13 @@
+from random import *
 
+aeg = float(input("Mitu tundi kulus sõiduks? ")) #aeg ei saa olla 0
+teepikkus = float(input("Mitu kilomeetrit sõitsid? "))
+kiirus = teepikkus/aeg
+print("Sinu kiirus oli " + str(kiirus) + "km/h")
+try:
+    pass
+except :
+    pass
 print("Tere maailm!")
 1
 nimi = input("Mis on sinu nimi?")
