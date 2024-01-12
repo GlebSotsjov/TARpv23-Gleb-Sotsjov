@@ -41,7 +41,7 @@ print("sinu kiirus oli" + str(kiirus) + " km/h")
 except:
     print("viga andmetüüb")
 
-print("The average is:", average)
+print("The average is:", =average)
 #8
 #   @..@
 #  (----)
@@ -74,7 +74,7 @@ print("Igaüks peab maksma:", igaüks_makseb, "eurot")
 
 try:
    aeg = float(input("Mitu tundi kulus sõiduks? "))
-   teepikkus = float(input("Mitu kilomeetrit sõitsid? kiirus")
+   teepikkus = float((input("Mitu kilomeetrit sõitsid? kiirus")
    kiirus = teepikkus/aeg
    print("sinu kiirus oli" + str(kiirus) + " km/h")
 
